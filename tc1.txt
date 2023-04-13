@@ -6,3 +6,6 @@ step 4 : login successful
 step 5 : Enter invalid search
 step 6 : Enter invalid password
 step 7 : user unable to login
+step 8 : Enter blank value
+step 9 : Click ok
+step 10 : End of testcases
