@@ -1,0 +1,5 @@
+Test case to perform login activities
+step 1 : Enter username 
+step 2 : Enter password
+step 3 : click login button
+step 4 : login successful
